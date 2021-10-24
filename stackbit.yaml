@@ -44,7 +44,7 @@ models:
           - green
           - yellow
           -red
-        default: green
+        default: red
         required: true
       - type: string
         label: Snipcart public API key
