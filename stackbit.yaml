@@ -43,7 +43,7 @@ models:
           - cyan
           - green
           - yellow
-          -red
+          - red
         default: red
         required: true
       - type: string
